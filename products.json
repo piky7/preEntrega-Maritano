@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Coca cola",
+    "description": "Gaseosa",
+    "price": "$1000",
+    "thumbnail": "foto",
+    "code": "007",
+    "stock": "5"
+  },
+  {
+    "id": 2,
+    "title": "Granola",
+    "description": "Snack",
+    "price": "$2500",
+    "thumbnail": "foto",
+    "code": "008",
+    "stock": "15"
+  }
+]
